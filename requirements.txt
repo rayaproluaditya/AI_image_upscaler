@@ -1,0 +1,8 @@
+streamlit>=1.20
+pillow
+numpy
+opencv-python-headless
+# Optional (install if you plan to use realesrgan python wrapper)
+# realesrgan
+# torch
+# torchvision
